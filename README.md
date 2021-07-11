@@ -1,24 +1,7 @@
-# README
+## BEM VINDO :wave:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Nesse sistema eu faço um chat em tempo real utilizando WebSocket e Ruby On rails
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<p align="Center">
+  <img width="460" height="300" src="src/assets/to_readme/simpleChat.gif">
+</p>
