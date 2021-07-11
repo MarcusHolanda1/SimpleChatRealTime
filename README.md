@@ -1,7 +1,7 @@
-## BEM VINDO :wave:
+# BEM VINDO :wave:
 
-# Nesse sistema eu faço um chat em tempo real utilizando WebSocket e Ruby On rails
+## Nesse sistema eu faço um chat em tempo real utilizando WebSocket e Ruby On rails
 
 <p align="Center">
-  <img width="460" height="300" src="src/assets/to_readme/simpleChat.gif">
+  <img width="460" height="300" src="app/assets/to_readme/simpleChat.gif">
 </p>
